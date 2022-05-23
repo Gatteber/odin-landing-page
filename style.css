@@ -35,7 +35,7 @@ h1 {
     color: #E5E7EB;
     font-size: 18px;
     display: flex;
-    gap: 12px;
+    gap: 24px;
 }
 
 .hero {
@@ -49,7 +49,8 @@ h1 {
 }
 
 .heroimage {
-    width: 800px;
+    flex-shrink: 0;
+    width: 450px;
     height: 200px;
     background-color: white;
 }
