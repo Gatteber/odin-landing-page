@@ -2,6 +2,14 @@
 Landing Page project for TOP
 
 
+How to do this:
+-Header
+-Hero
+-Image
+-Quote
+-Sign Up
+-Footer
+
 
 ### INSTRUCTIONS/TEMPLATES LOCATED BELOW ###
 Design:
