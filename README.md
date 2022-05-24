@@ -8,6 +8,21 @@ Credit - cottonbro
 Contact - Pexels/cottonbro
 
 
+Service Box:
+Image 1 (Math):
+Credit - George Becker
+Contact - https://www.pexels.com/@eye4dtail/
+linkback - Photo by George Becker from Pexels
+
+Image 2 (call):
+Credit - Photo by Mikhail Nilov: https://www.pexels.com/photo/man-in-white-dress-shirt-wearing-headphones-7681974/
+
+Image 3 (Inspiration):
+Credit - Photo by Prateek Katyal: https://www.pexels.com/photo/illuminated-qoute-board-2740954/
+
+Image 4 (Do):
+Credit Photo by Olya Kobruseva: https://www.pexels.com/photo/motivational-simple-inscription-against-doubts-5238645/
+
 How to do this:
 -Header
 -Hero
