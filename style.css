@@ -1,3 +1,4 @@
+/* Universal Selectors */
 body {
     font-family: 'Roboto', Helvetica, sans-serif;
     background-color: #1F2937;
@@ -16,6 +17,29 @@ h1 {
     font-weight: extra-bold;
 }
 
+h2 {
+    color: #1F2937;
+    font-size: 36px;
+    font-weight: extra-bold;
+}
+
+button {
+    background-color: #3882F6;
+    color: #E5E7EB;
+    font-weight: bold;
+    font-size: 16px;
+    border: none;
+    border-radius: 8px;
+    padding: 12px 30px;
+    transition-duration: 0.5s;
+}
+
+button:hover {
+    background-color: #F9FAF8;
+    color: #3882F6;
+}
+
+/* Header + Hero */
 .header {
     background-color: #1F2937;
     display: flex;
@@ -50,10 +74,17 @@ h1 {
 
 .heroimage {
     flex-shrink: 0;
-    width: 450px;
+    max-width: 450px;
     height: 200px;
     background-color: white;
 }
+
+/*Images and quotes */
+.services {
+    background-color: #E5E7EB;
+    
+}
+
 
 /*
 Styles and fonts:

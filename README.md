@@ -2,6 +2,12 @@
 Landing Page project for TOP
 
 
+Image credits:
+Hero Image:
+Credit - cottonbro
+Contact - Pexels/cottonbro
+
+
 How to do this:
 -Header
 -Hero
