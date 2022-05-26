@@ -63,8 +63,8 @@ button:hover {
     display: flex;
     justify-content: center;
     align-items: center;
-
-    padding-bottom: 48px;
+    padding-top: 12px;
+    padding-bottom: 50px;
 }
 
 .logobox {
@@ -85,6 +85,7 @@ button:hover {
     flex: 1;
     align-items: center;
     justify-content: center;
+    padding-bottom: 100px;
 }
 
 .hero-container {
@@ -92,6 +93,7 @@ button:hover {
     justify-content: center;
     align-items: center;
     width: 1000px;
+    gap: 100px;
 }
 
 .herotext {
@@ -100,7 +102,7 @@ button:hover {
 }
 
 .heroimage {
-    flex-shrink: 0;
+    flex-grow: 1;
     max-width: 450px;
     height: 200px;
     background-color: white;
@@ -108,11 +110,12 @@ button:hover {
 
 /*Images + quotes */
 .services {
-    background-color: #E5E7EB;
+    background-color: #F9FAF8;
     align-self: center;
     display: flex;
     flex-direction: column;
     align-items: center;
+    padding-bottom: 150px;
 }
 
 .service-box {
@@ -155,6 +158,8 @@ button:hover {
     display: flex;
     align-items: center;
     justify-content: center;
+    padding-top: 100px;
+    padding-bottom: 100px;
 }
 
 .quotebox-container {
@@ -173,10 +178,12 @@ button:hover {
 
 /*CTA styles */
 .cta {
-    background-color: #E5E7EB;
+    background-color: #F9FAF8;
     display: flex;
     align-items: center;
     justify-content: center;
+    padding-top: 100px;
+    padding-bottom: 100px;
 
 }
 
@@ -216,6 +223,14 @@ button:hover {
     color: #F9FAF8;
     display: flex;
     align-items: center;
+    justify-content: center;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+.footer-container {
+    display: flex;
+    align-items:center;
     justify-content: center;
 }
 

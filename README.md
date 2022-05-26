@@ -1,12 +1,16 @@
 # odin-landing-page
-Landing Page project for TOP
+Landing Page project for TOP. This was completed over the course of ~a week and was mostly done by myself.
+
+Reflection:
+I was able to achieve what I set out to, basically. I ended up using set size containers with flexboxes, I'm not sure if that was the best approach, but I was able to complete it satisfactorily.
+
+I need to spend more time working with images in flexbox. I ended up having to use a stack-overflow solution for the images, because I couldn't figure out how to make the images resize, not stretch, AND stay within a boundary defined by myself.
 
 
 Image credits:
 Hero Image:
 Credit - cottonbro
-Contact - Pexels/cottonbro
-
+Photo by cottonbro: https://www.pexels.com/photo/a-male-physical-education-teacher-coaching-his-students-7207353/
 
 Service Box:
 Image 1 (Math):
@@ -15,21 +19,16 @@ Contact - https://www.pexels.com/@eye4dtail/
 linkback - Photo by George Becker from Pexels
 
 Image 2 (call):
-Credit - Photo by Mikhail Nilov: https://www.pexels.com/photo/man-in-white-dress-shirt-wearing-headphones-7681974/
+Credit - Mikhail Nilov
+Photo by Mikhail Nilov: https://www.pexels.com/photo/man-in-white-dress-shirt-wearing-headphones-7681974/
 
 Image 3 (Inspiration):
-Credit - Photo by Prateek Katyal: https://www.pexels.com/photo/illuminated-qoute-board-2740954/
+Credit - Prateek Katyal
+Photo by Prateek Katyal: https://www.pexels.com/photo/illuminated-qoute-board-2740954/
 
 Image 4 (Do):
-Credit Photo by Olya Kobruseva: https://www.pexels.com/photo/motivational-simple-inscription-against-doubts-5238645/
-
-How to do this:
--Header
--Hero
--Image
--Quote
--Sign Up
--Footer
+Credit - Olya Kobruseva 
+Photo by Olya Kobruseva: https://www.pexels.com/photo/motivational-simple-inscription-against-doubts-5238645/
 
 
 ### INSTRUCTIONS/TEMPLATES LOCATED BELOW ###
