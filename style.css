@@ -2,7 +2,7 @@
 body {
     font-family: 'Roboto', Helvetica, sans-serif;
     background-color: #1F2937;
-    margin: 0;
+    padding: 0;
 }
 
 a {
@@ -21,6 +21,15 @@ h2 {
     font-size: 36px;
     font-weight: 800;
     text-align: center;
+}
+
+h3 {
+    color:#1F2937;
+    font-size: 36px;
+    font-weight: 100;
+    text-align: center;
+    font-style: italic;
+    margin: 0;
 }
 
 button {
@@ -79,7 +88,7 @@ button:hover {
     background-color: white;
 }
 
-/*Images and quotes */
+/*Images + quotes */
 .services {
     background-color: #E5E7EB;
     align-self: center;
@@ -91,7 +100,7 @@ button:hover {
 .service-box {
     display: flex;
     text-align: center;
-    justify-content: space-between;
+    justify-content: center;
     gap: 52px;
     max-width: 950px;
     flex-wrap: wrap;
@@ -118,6 +127,67 @@ button:hover {
 
 .service-text {
     order: 2;
+    max-width: 185px;
+}
+
+
+/*Quote Styles */
+.quotebox {
+    background-color: #E5E7EB;
+}
+
+.quoteperson {
+    font-size: 24px;
+    font-weight: 800;
+    text-align: right;
+}
+
+/*CTA styles */
+.cta {
+    background-color: #E5E7EB;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.cta-box {
+    background-color: #3882F6;
+    display: flex;
+    width: 950px;
+    border-radius: 8px;
+    align-items: center;
+    justify-content: center;
+    padding: 50px 12px 50px 12px;
+}
+
+.cta-text {
+    flex-grow: 2;
+    display: flex;
+    flex-direction: column;
+}
+
+.cta-button {
+    border: 2px solid #E5E7EB;
+}
+
+.cta-question {
+    color: #E5E7EB;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.cta-signup {
+    color: #E5E7EB;
+    font-size: 18px;
+}
+
+/*Footer Styles */
+.footer {
+    color: #F9FAF8;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 /*
